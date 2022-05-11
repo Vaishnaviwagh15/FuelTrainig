@@ -1,1 +1,1 @@
-# FuelTrainig
+# FuelTraining
